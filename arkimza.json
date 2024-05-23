@@ -1,0 +1,40 @@
+{
+  "android": [
+    {
+      "version": "1.0.0",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.1",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.2",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.3",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.4",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.5",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.6",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.7",
+      "environment": "prod"
+    },
+    {
+      "version": "1.0.8",
+      "environment": "dev"
+    }
+  ]
+}
